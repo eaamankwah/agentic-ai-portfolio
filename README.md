@@ -105,7 +105,7 @@ AI NourishBot is an intelligent nutrition coaching application that leverages **
 * **Computer Vision**: Advanced multimodal AI processing
 * **Tool Integration**: MCP (Model Context Protocol) for agent communication
 
-## 📦 Project 2: CrewAI Content Creation Pipeline
+## Project 2: CrewAI Content Creation Pipeline
 
 A sophisticated **GenAI-powered content creation system** that transforms raw research into polished, insightful blog posts through collaborative agent workflows. This project demonstrates advanced **CrewAI framework implementation**, featuring a sequential multi-agent process where specialized agents work together autonomously to create high-quality content.
 
@@ -210,7 +210,7 @@ A comprehensive **YouTube interaction system** that demonstrates sophisticated t
 
 ### Project 4: Key Features
 
-#### 🔧 **Advanced Tool Architecture**
+#### **Advanced Tool Architecture**
 * **Custom Tool Creation**: Implements YouTube-specific tools using LangChain's `@tool` decorator
 * **Video ID Extraction**: Intelligent parsing of various YouTube URL formats (standard, shortened, embedded)
 * **Transcript Fetching**: Automated caption retrieval with multi-language support
@@ -376,7 +376,7 @@ A comprehensive implementation of the **ReAct (Reasoning + Acting) framework** b
 
 ---
 
-## 📦 Project 6: LangGraph Workflow Patterns - Advanced Agent Orchestration
+## Project 6: LangGraph Workflow Patterns - Advanced Agent Orchestration
 
 A comprehensive implementation of **essential workflow design patterns** using LangGraph and LangChain that demonstrates the three fundamental approaches to multi-agent coordination: **Sequential Agent Coordination**, **Intent-Based Routing**, and **Parallel Agent Execution**. This project showcases how individual AI models can be orchestrated into sophisticated, coordinated systems that solve complex real-world problems.
 
