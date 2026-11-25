@@ -1,80 +1,80 @@
-# Multi-Agent Course and Project: AI Applications
+# Agentic AI Portfolio: Applications
 
 [![AI](https://img.shields.io/badge/AI-Multi--Agent%20System-blue)](https://github.com)
 [![LLM](https://img.shields.io/badge/LLM-Llama%203.2%2090B-green)](https://github.com)
 [![Framework](https://img.shields.io/badge/Framework-Gradio-orange)](https://github.com)
 [![Vision](https://img.shields.io/badge/Computer%20Vision-Multimodal%20AI-purple)](https://github.com)
 
-## 📚 Course Foundation: Introduction to Agentic AI
+## Course Foundation: Introduction to Agentic AI
 
 This project is built upon comprehensive coursework that provides deep understanding of Agentic AI principles and implementation:
 
 ### **Module 1: What is Agentic AI?**
 **Lesson 1 - Let's Chat About Agents (AI-Powered)**
-* 🎯 **Interactive Learning**: AI-powered lesson engagement (1 activity)
-* 📊 **Generative vs Agentic AI**: Understanding fundamental distinctions (1 min)
-* 🤖 **What Are AI Agents?**: Core concepts and definitions (1 min)
-* 🔄 **AI Workflows vs Agents**: Architectural differences and use cases (1 min)
-* 📋 **Types of AI Agents**: Classification and characteristics (1 min)
-* ⚖️ **When (and When Not) to Use AI Agents**: Strategic implementation decisions (1 min)
+*  **Interactive Learning**: AI-powered lesson engagement (1 activity)
+*  **Generative vs Agentic AI**: Understanding fundamental distinctions (1 min)
+*  **What Are AI Agents?**: Core concepts and definitions (1 min)
+*  **AI Workflows vs Agents**: Architectural differences and use cases (1 min)
+*  **Types of AI Agents**: Classification and characteristics (1 min)
+*  **When (and When Not) to Use AI Agents**: Strategic implementation decisions (1 min)
 * ✅ **Lesson 1 Quiz**: Knowledge validation (1 activity)
 
 ### **Module 2: Tool Calling & MCP**
 **Lesson 2 - Interactive Learning Experience**
-* 🎙️ **Interactive Podcast (AI-Powered)**: Immersive learning format (1 activity)
-* 🔧 **Why Agents Need Tools**: Understanding tool integration necessity (1 min)
-* 🗄️ **AI-Powered SQL Agents**: Database interaction capabilities (1 min)
-* 📞 **Tool Calling for LLMs**: Implementation mechanisms (1 min)
-* 🔧 **When to Call Tools Manually**: Decision-making frameworks (1 min)
-* 🔗 **What is MCP?**: Model Context Protocol fundamentals (1 min)
+*  **Interactive Podcast (AI-Powered)**: Immersive learning format (1 activity)
+*  **Why Agents Need Tools**: Understanding tool integration necessity (1 min)
+*  **AI-Powered SQL Agents**: Database interaction capabilities (1 min)
+*  **Tool Calling for LLMs**: Implementation mechanisms (1 min)
+*  **When to Call Tools Manually**: Decision-making frameworks (1 min)
+*  **What is MCP?**: Model Context Protocol fundamentals (1 min)
 * ✅ **Lesson 2 Quiz**: Competency assessment (1 activity)
 
 ### **Module 3: Agentic RAG & Multi-Agent Systems**
 **Lesson 3 - Advanced Agent Architectures**
-* 🎙️ **Interactive Podcast (AI-Powered)**: Advanced concept exploration (1 activity)
-* 🔍 **Why RAG?**: Retrieval-Augmented Generation principles (1 min)
-* 🤖 **Agentic RAG**: Agent-driven information retrieval (1 min)
-* 🎼 **What are Orchestrator Agents**: Coordination and management patterns (1 min)
-* 🏗️ **Multi-Agent Systems Fundamentals**: System design principles (1 min)
-* ⚠️ **Risks of Agentic AI**: Safety and ethical considerations (1 min)
+*  **Interactive Podcast (AI-Powered)**: Advanced concept exploration (1 activity)
+*  **Why RAG?**: Retrieval-Augmented Generation principles (1 min)
+*  **Agentic RAG**: Agent-driven information retrieval (1 min)
+*  **What are Orchestrator Agents**: Coordination and management patterns (1 min)
+*  **Multi-Agent Systems Fundamentals**: System design principles (1 min)
+*  **Risks of Agentic AI**: Safety and ethical considerations (1 min)
 * ✅ **Lesson 3 Quiz**: Final knowledge verification (1 activity)
 
 ---
 
-## 🚀 Project Portfolio
+##  Project Portfolio
 
 This repository showcases a comprehensive collection of Agentic AI projects, each demonstrating different aspects of Multi-Agent Systems and advanced AI implementation. These projects build upon the foundational coursework and represent practical applications of cutting-edge AI technologies.
 
 ---
 
-## 📦 Project 1: AI NourishBot - Multi-Agent Nutrition Coach
+##  Project 1: AI NourishBot - Multi-Agent Nutrition Coach
 
 AI NourishBot is an intelligent nutrition coaching application that leverages **Multi-Agent Systems (MAS)** and **advanced multimodal AI** to provide personalized dietary guidance. This project demonstrates the practical implementation of cutting-edge Agentic AI concepts, combining computer vision, natural language processing, and intelligent decision-making in a cohesive real-world application.
 
-### 🎯 Project 1: Key Features
+###  Project 1: Key Features
 
-#### 🔍 **Intelligent Food Analysis**
+####  **Intelligent Food Analysis**
 * **Computer Vision Integration**: Utilizes Meta's Llama 3.2 90B Vision-Instruct model for accurate food identification
 * **Comprehensive Nutrition Breakdown**: Provides detailed analysis of calories, macronutrients, and micronutrients
 * **Real-time Processing**: Instant analysis of uploaded food images
 
-#### 🤖 **Multi-Agent Architecture**
+####  **Multi-Agent Architecture**
 * **Vision Agent**: Processes visual input and identifies food items
 * **Nutrition Agent**: Analyzes nutritional content and health metrics  
 * **Recipe Agent**: Generates personalized recipe suggestions based on dietary preferences
 * **Orchestrator Agent**: Coordinates workflow between specialized agents
 
-#### 🍽️ **Personalized Dietary Management**
+####  **Personalized Dietary Management**
 * **Dietary Restriction Support**: Vegan, Vegetarian, Gluten-free, Keto options
 * **Intelligent Filtering**: Automatically excludes incompatible ingredients
 * **Health Evaluation**: Provides actionable insights for nutritional improvement
 
-#### 🌐 **User-Friendly Interface**
+####  **User-Friendly Interface**
 * **Gradio Web Interface**: Intuitive, accessible design for seamless user interaction
 * **Dual Workflow Options**: Choose between Recipe Generation or Nutritional Analysis
 * **Cross-platform Compatibility**: Works across desktop and mobile devices
 
-### 🗏️ Project 1: Technical Architecture
+### Project 1: Technical Architecture
 
 #### **Multi-Agent System Design**
 ```
@@ -109,7 +109,7 @@ AI NourishBot is an intelligent nutrition coaching application that leverages **
 
 A sophisticated **GenAI-powered content creation system** that transforms raw research into polished, insightful blog posts through collaborative agent workflows. This project demonstrates advanced **CrewAI framework implementation**, featuring a sequential multi-agent process where specialized agents work together autonomously to create high-quality content.
 
-### 🎯 Project 2: Key Components
+###  Project 2: Key Components
 
 #### **Multi-Agent Architecture**
 * **Research Analyst Agent**: Leverages SerperDev API for real-time web search and cutting-edge information gathering
@@ -129,7 +129,7 @@ A sophisticated **GenAI-powered content creation system** that transforms raw re
 * **Platform-Specific Output**: Tailored content for different distribution channels
 * **Performance Monitoring**: Comprehensive analytics and resource tracking
 
-### 🛠️ Project 2: Technical Stack
+### Project 2: Technical Stack
 
 #### **Core Technologies**
 * **Framework**: CrewAI 0.80.0 for multi-agent orchestration
@@ -145,35 +145,35 @@ A sophisticated **GenAI-powered content creation system** that transforms raw re
 
 ---
 
-## 📦 Project 3: AI Math Assistant - LangChain Tool Calling System
+## Project 3: AI Math Assistant - LangChain Tool Calling System
 
 An intelligent mathematical assistant that demonstrates **advanced tool calling capabilities** with LangChain agents. This project showcases the implementation of custom tools, multi-tool orchestration, and the integration of built-in tools for comprehensive problem-solving capabilities.
 
-### 🎯 Project 3: Key Features
+### Project 3: Key Features
 
-#### 🧮 **Mathematical Toolkit**
+#### **Mathematical Toolkit**
 * **Custom Tool Creation**: Implements mathematical operations using both `Tool` class and `@tool` decorator
 * **Comprehensive Operations**: Addition, subtraction, multiplication, division, and power calculations
 * **Error Handling**: Robust input validation and edge case management
 * **Flexible Input Parsing**: Handles various number formats and natural language inputs
 
-#### 🔧 **Tool Calling Architecture**
+#### **Tool Calling Architecture**
 * **LangChain Integration**: Utilizes IBM watsonx Granite and OpenAI GPT models
 * **Multiple Agent Types**: Demonstrates `zero-shot-react-description`, `structured-chat-zero-shot-react-description`, and `openai-functions` agents
 * **Tool Orchestration**: Intelligent tool selection based on user query context
 * **LangGraph Implementation**: Modern agent execution using `create_react_agent`
 
-#### 🌐 **External Tool Integration**
+####  **External Tool Integration**
 * **Built-in Tools**: Wikipedia search integration for factual information retrieval
 * **Multi-step Problem Solving**: Combines information retrieval with mathematical computation
 * **Extensible Framework**: Easy integration of additional LangChain community tools
 
-#### 📊 **Testing & Validation**
+#### **Testing & Validation**
 * **Automated Test Suite**: Comprehensive test cases for all mathematical operations
 * **Performance Monitoring**: Tool usage analytics and result validation
 * **Error Case Handling**: Division by zero, invalid inputs, and edge case management
 
-### 🗏️ Project 3: Technical Implementation
+### Project 3: Technical Implementation
 
 #### **Tool Creation Methods**
 ```python
@@ -204,11 +204,11 @@ def add_numbers(inputs: str) -> dict:
 
 ---
 
-## 📦 Project 4: Manual Tool-Calling Agent - Advanced YouTube Analytics System
+## Project 4: Manual Tool-Calling Agent - Advanced YouTube Analytics System
 
 A comprehensive **YouTube interaction system** that demonstrates sophisticated tool calling capabilities with LangChain. This project showcases both manual and automated tool calling approaches, featuring custom YouTube tools for video analysis, content extraction, and intelligent summarization through recursive agent workflows.
 
-### 🎯 Project 4: Key Features
+### Project 4: Key Features
 
 #### 🔧 **Advanced Tool Architecture**
 * **Custom Tool Creation**: Implements YouTube-specific tools using LangChain's `@tool` decorator
@@ -217,25 +217,25 @@ A comprehensive **YouTube interaction system** that demonstrates sophisticated t
 * **Metadata Extraction**: Comprehensive video information including views, duration, likes, comments, and chapters
 * **Search Integration**: Real-time YouTube search capabilities with result filtering
 
-#### 🔄 **Manual vs Automated Tool Calling**
+#### **Manual vs Automated Tool Calling**
 * **Manual Process Demonstration**: Step-by-step tool calling with explicit state management
 * **Chain Automation**: Streamlined workflow using LangChain's chain functionality
 * **Recursive Processing**: Dynamic tool calling that adapts to query complexity
 * **Tool Call Orchestration**: Intelligent selection and sequencing of multiple tools
 
-#### 🎬 **YouTube-Specific Capabilities**
+#### **YouTube-Specific Capabilities**
 * **Trending Videos Analysis**: Regional trending content discovery with metadata extraction
 * **Thumbnail Retrieval**: Complete thumbnail collection across all available resolutions
 * **Multi-language Support**: Transcript fetching in various language codes
 * **Content Summarization**: AI-powered video content analysis and summary generation
 
-#### 🔗 **Intelligent Workflow Management**
+#### **Intelligent Workflow Management**
 * **Sequential Chains**: Fixed-step workflows for predictable tool calling patterns
 * **Recursive Chains**: Dynamic workflows that adapt to varying complexity requirements
 * **State Management**: Comprehensive conversation history tracking with tool call linking
 * **Error Handling**: Robust exception handling and graceful degradation
 
-### 🗏️ Project 4: Technical Implementation
+### Project 4: Technical Implementation
 
 #### **Tool Ecosystem Architecture**
 ```
@@ -277,37 +277,37 @@ A comprehensive **YouTube interaction system** that demonstrates sophisticated t
 
 ---
 
-## 📦 Project 5: Simple ReAct Agent - From Scratch Implementation
+## Project 5: Simple ReAct Agent - From Scratch Implementation
 
 A comprehensive implementation of the **ReAct (Reasoning + Acting) framework** built from the ground up using LangGraph. This project demonstrates the fundamental principles of agentic AI by creating an intelligent assistant that thinks step-by-step, uses tools strategically, and adapts its approach based on intermediate results.
 
-### 🎯 Project 5: Key Features
+### Project 5: Key Features
 
-#### 🧠 **ReAct Framework Implementation**
+#### **ReAct Framework Implementation**
 * **Think → Act → Observe Loop**: Complete implementation of the ReAct reasoning pattern
 * **Step-by-Step Reasoning**: Transparent decision-making process with explanation of thought patterns
 * **Dynamic Tool Selection**: Intelligent choice of appropriate tools based on query context
 * **Adaptive Problem Solving**: Ability to adjust approach based on intermediate results
 
-#### 🛠️ **Comprehensive Tool Ecosystem**
+#### **Comprehensive Tool Ecosystem**
 * **Web Search Integration**: Real-time information retrieval using Tavily Search API
 * **Clothing Recommendation System**: Weather-based clothing suggestions with intelligent parsing
 * **Advanced Calculator Tool**: Safe mathematical expression evaluation with comprehensive function support
 * **News Summarization Engine**: Multi-article parsing, analysis, and intelligent summarization
 
-#### 📊 **State Management Architecture**
+#### **State Management Architecture**
 * **Conversation State Tracking**: Complete message history preservation using LangGraph reducers
 * **Tool Call Integration**: Seamless integration of tool results into conversation context
 * **Error Handling**: Robust exception management and graceful degradation
 * **Manual vs Automated Execution**: Demonstrates both manual step-through and automated graph execution
 
-#### 🔗 **Graph-Based Automation**
+#### **Graph-Based Automation**
 * **State Graph Implementation**: Professional workflow automation using LangGraph StateGraph
 * **Conditional Logic**: Intelligent routing between reasoning and acting phases
 * **Visual Workflow Representation**: Mermaid diagram generation for workflow visualization
 * **Streaming Execution**: Real-time response generation with step-by-step visibility
 
-### 🏗️ Project 5: Technical Architecture
+### Project 5: Technical Architecture
 
 #### **ReAct Cycle Flow**
 ```
@@ -347,7 +347,7 @@ A comprehensive implementation of the **ReAct (Reasoning + Acting) framework** b
 * **Tool Call Analysis**: Breakdown of tool selection, execution, and result processing
 * **Learning-Focused Design**: Clear explanations of ReAct principles throughout
 
-### 🧪 Project 5: Comprehensive Testing Suite
+### Project 5: Comprehensive Testing Suite
 
 #### **Calculator Tool Validation**
 * **30+ Test Cases**: Comprehensive validation of mathematical operations
@@ -380,27 +380,27 @@ A comprehensive implementation of the **ReAct (Reasoning + Acting) framework** b
 
 A comprehensive implementation of **essential workflow design patterns** using LangGraph and LangChain that demonstrates the three fundamental approaches to multi-agent coordination: **Sequential Agent Coordination**, **Intent-Based Routing**, and **Parallel Agent Execution**. This project showcases how individual AI models can be orchestrated into sophisticated, coordinated systems that solve complex real-world problems.
 
-### 🎯 Project 6: Key Features
+### Project 6: Key Features
 
-#### 🔄 **Sequential Agent Coordination (Prompt Chaining)**
+#### **Sequential Agent Coordination (Prompt Chaining)**
 * **Job Application Assistant**: End-to-end workflow from job description analysis to personalized cover letter generation
 * **Resume Summary Agent**: Intelligent extraction of key qualifications tailored to specific job requirements
 * **Cover Letter Generator**: Professional document creation using resume summary and job description synthesis
 * **State Management**: Robust data flow between sequential processing stages using TypedDict structures
 
-#### 🎯 **Intent-Based Routing System**
+#### **Intent-Based Routing System**
 * **Intelligent Task Classification**: LLM-powered routing that analyzes user intent and directs to specialized processing paths
 * **Multi-Domain Support**: Handles summarization, translation, and general query processing through dedicated agents
 * **Dynamic Decision Making**: Real-time classification and routing based on natural language understanding
 * **Conditional Logic**: Advanced LangGraph conditional edges for seamless workflow branching
 
-#### ⚡ **Parallel Agent Execution**
+#### **Parallel Agent Execution**
 * **Multilingual Translation Engine**: Simultaneous translation into French, Spanish, and Japanese
 * **Concurrent Processing**: Independent task execution with synchronized result aggregation
 * **Efficiency Optimization**: Demonstrates significant performance improvements through parallel execution
 * **Resource Coordination**: Intelligent management of multiple LLM calls and result consolidation
 
-### 🏗️ Project 6: Technical Architecture
+### Project 6: Technical Architecture
 
 #### **Workflow Pattern Implementation**
 ```
@@ -424,7 +424,7 @@ A comprehensive implementation of **essential workflow design patterns** using L
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 🛠️ Project 6: Advanced Implementation Features
+### Project 6: Advanced Implementation Features
 
 #### **Multi-Agent Service Router**
 * **Comprehensive Service Classification**: Intelligent routing between ride hailing, restaurant orders, grocery delivery, and default handling
@@ -444,7 +444,7 @@ A comprehensive implementation of **essential workflow design patterns** using L
 * **Practical Examples**: Real-world use cases including job applications, task routing, and multilingual processing
 * **Progressive Complexity**: Building from simple chaining to advanced parallel processing concepts
 
-### 🧪 Project 6: Comprehensive Demonstration
+### Project 6: Comprehensive Demonstration
 
 #### **Job Application Workflow Testing**
 * **Multi-Stage Validation**: Testing complete pipeline from job description input to cover letter generation
@@ -464,7 +464,7 @@ A comprehensive implementation of **essential workflow design patterns** using L
 * **Quality Consistency**: Validating translation quality across all target languages
 * **Scalability Demonstration**: Showing how pattern extends to additional parallel tasks
 
-### 💼 Project 6: Real-World Applications
+### Project 6: Real-World Applications
 
 #### **Enterprise Workflow Automation**
 * **Document Processing Pipelines**: Sequential workflows for automated document generation and processing
@@ -480,38 +480,38 @@ A comprehensive implementation of **essential workflow design patterns** using L
 
 ---
 
-## 📦 Project 7: AutoMed - Multi-Agent Healthcare Chatbot with AG2 AutoGen
+## Project 7: AutoMed - Multi-Agent Healthcare Chatbot with AG2 AutoGen
 
 AutoMed represents a sophisticated **multi-agent healthcare consultation system** powered by AG2 (AutoGen) that simulates expert medical consultation through intelligent agent collaboration. Unlike traditional single-agent chatbots, AutoMed orchestrates multiple specialized AI agents that work together as a coordinated medical team, providing comprehensive, context-aware healthcare guidance through structured multi-agent communication patterns.
 
-### 🎯 Project 7: Key Features
+### Project 7: Key Features
 
-#### 🏥 **Multi-Agent Medical Team Architecture**
+#### **Multi-Agent Medical Team Architecture**
 * **Specialized Agent Roles**: Four distinct agents each handling specific aspects of medical consultation
 * **Patient Agent**: Collects user symptoms, medical history, and treatment information
 * **Diagnosis Agent**: Analyzes symptoms using AI-driven medical knowledge for condition assessment
 * **Pharmacy Agent**: Provides medication recommendations and over-the-counter treatment suggestions
 * **Consultation Advisor Agent**: Determines necessity for professional medical intervention and provides final summary
 
-#### 🤖 **AG2 AutoGen Framework Implementation**
+#### **AG2 AutoGen Framework Implementation**
 * **ConversableAgent Integration**: Leverages AutoGen's conversational AI agents with role-specific system messages
 * **GroupChat Orchestration**: Structured multi-agent communication using round-robin speaker selection
 * **GroupChatManager Coordination**: Centralized conversation management with turn-based interaction control
 * **Intelligent Workflow Termination**: Automated conversation completion with "CONSULTATION_COMPLETE" signals
 
-#### 🔄 **Advanced Conversation Management**
+#### **Advanced Conversation Management**
 * **Structured Communication Flow**: Logical progression from symptom analysis to treatment recommendations
 * **Turn-Based Interaction**: Round-robin speaker selection preventing chaotic agent communication
 * **Conversation Limiting**: Maximum round restrictions (5 rounds) to prevent infinite loops
 * **State Preservation**: Comprehensive message history tracking throughout consultation process
 
-#### 🧠 **Real-Time Medical Intelligence**
+#### **Real-Time Medical Intelligence**
 * **GPT-4o Integration**: Advanced language model capabilities for accurate medical reasoning
 * **Context-Aware Analysis**: Symptom evaluation considering user's complete medical context
 * **Professional-Grade Responses**: Medical terminology and structured consultation format
 * **Dynamic Decision Making**: Adaptive responses based on symptom complexity and urgency
 
-### 🗃️ Project 7: Technical Architecture
+### Project 7: Technical Architecture
 
 #### **Multi-Agent Communication Flow**
 ```
@@ -543,7 +543,7 @@ AutoMed represents a sophisticated **multi-agent healthcare consultation system*
 * **Termination Logic**: Intelligent conversation completion based on consultation advisor signals
 * **Error Prevention**: Maximum round limits and conversation state validation
 
-### 🛠️ Project 7: Implementation Highlights
+### Project 7: Implementation Highlights
 
 #### **Agent Role Specialization**
 * **System Message Configuration**: Each agent receives specific role definitions and behavior guidelines
@@ -563,7 +563,7 @@ AutoMed represents a sophisticated **multi-agent healthcare consultation system*
 * **Structured Output**: Clear, organized consultation results with actionable recommendations
 * **Educational Transparency**: Visible agent collaboration process for learning purposes
 
-### 📋 Project 7: Safety and Compliance
+### Project 7: Safety and Compliance
 
 #### **Medical Disclaimer Integration**
 * **Professional Consultation Emphasis**: Clear guidance that AI advice supplements, not replaces, medical professionals
@@ -577,7 +577,7 @@ AutoMed represents a sophisticated **multi-agent healthcare consultation system*
 * **User Safety**: Conservative approach prioritizing user safety over convenience
 * **Professional Standards**: Implementation following best practices for healthcare AI applications
 
-### 🔧 Project 7: Technology Stack
+### Project 7: Technology Stack
 
 #### **Core Technologies**
 * **Framework**: AG2 (AutoGen) 0.7 for multi-agent orchestration and conversation management
@@ -605,37 +605,37 @@ AutoMed represents a sophisticated **multi-agent healthcare consultation system*
 
 ---
 
-## 📦 Project 8: Customer Support Agent with PydanticAI
+## Project 8: Customer Support Agent with PydanticAI
 
 A production-ready **customer support chatbot system** built with PydanticAI that demonstrates the power of schema-first, type-safe AI agent development. This project showcases how to create reliable, structured AI agents that process customer support tickets with consistent, validated responses through Pydantic's robust data modeling and validation framework.
 
-### 🎯 Project 8: Key Features
+### Project 8: Key Features
 
-#### 🏗️ **Schema-First Architecture**
+#### **Schema-First Architecture**
 * **Pydantic BaseModel Integration**: Strongly-typed response models ensuring consistent AI output structure
 * **Data Validation**: Automatic validation of AI responses with field-specific constraints and fallback handling
 * **Type Safety**: Complete type safety throughout the agent pipeline using Python's typing system
 * **Structured Output Control**: Guaranteed JSON response format eliminating unpredictable AI outputs
 
-#### 🎫 **Intelligent Ticket Processing**
+#### **Intelligent Ticket Processing**
 * **Multi-Field Matching**: Customer identification through ticket ID, email, or customer name matching
 * **Priority Classification**: Automatic assignment of low/medium/high priority levels with intelligent validation
 * **Category Detection**: Smart categorization of support issues (billing, technical, account, connectivity)
 * **Escalation Logic**: Boolean escalation decisions based on issue complexity and urgency
 
-#### 📊 **Real Dataset Integration**
+#### **Real Dataset Integration**
 * **Kaggle Dataset Processing**: Integration with customer support ticket dataset from Kaggle
 * **CSV Data Handling**: Direct CSV file processing and querying within agent responses
 * **Customer Profile Matching**: Intelligent matching of user queries to existing customer records
 * **Historical Data Context**: Leveraging existing ticket data for informed response generation
 
-#### 🤖 **Advanced Agent Architecture**
+#### **Advanced Agent Architecture**
 * **PydanticAI Framework**: Built on PydanticAI's agent-oriented design with OpenAI GPT-4.1-nano integration
 * **Dependency Injection**: Sophisticated dependency management using dataclass-based context passing
 * **Async Processing**: Full asynchronous processing with nest_asyncio support for Jupyter environments
 * **Mood-Based Extensions**: Extensible architecture demonstrated through mood-responsive recipe suggestions
 
-### 🗃️ Project 8: Technical Implementation
+### Project 8: Technical Implementation
 
 #### **Core Agent Structure**
 ```python
@@ -658,7 +658,7 @@ agent = Agent[SupportResponse](
 * **Error Handling**: Comprehensive exception handling with graceful degradation
 * **Conversation Management**: Persistent conversation state with exit condition handling
 
-### 🛠️ Project 8: Advanced Features
+### Project 8: Advanced Features
 
 #### **Pydantic V2 Validation System**
 * **Field Validators**: Custom validation logic with @field_validator decorators for priority normalization
@@ -678,7 +678,7 @@ agent = Agent[SupportResponse](
 * **Conversation Loops**: Interactive chatbot implementation with clean exit mechanisms
 * **Response Formatting**: Professional output formatting with clear categorization and escalation indicators
 
-### 🧪 Project 8: Comprehensive Examples
+### Project 8: Comprehensive Examples
 
 #### **Customer Support Scenarios**
 * **Authentication Issues**: Password reset requests with automatic escalation logic
@@ -692,7 +692,7 @@ agent = Agent[SupportResponse](
 * **Multi-Agent Coordination**: Framework for extending to multiple specialized support agents
 * **Real-Time Processing**: Live customer interaction with immediate response generation
 
-### 💼 Project 8: Business Applications
+### Project 8: Business Applications
 
 #### **Customer Service Automation**
 * **24/7 Support Availability**: Continuous customer support without human intervention requirements
@@ -706,7 +706,7 @@ agent = Agent[SupportResponse](
 * **Analytics Integration**: Structured data output enabling comprehensive support analytics
 * **Knowledge Base Evolution**: Continuous learning from customer interactions and ticket resolutions
 
-### 🔧 Project 8: Technology Stack
+### Project 8: Technology Stack
 
 #### **Core Technologies**
 * **Framework**: PydanticAI 0.1.3 for type-safe agent development and structured output validation
@@ -728,37 +728,37 @@ agent = Agent[SupportResponse](
 
 ---
 
-## 📦 Project 9: DocChat - Agentic RAG Document Intelligence System
+## Project 9: DocChat - Agentic RAG Document Intelligence System
 
 DocChat represents a revolutionary approach to **document intelligence** through a multi-agent Retrieval-Augmented Generation (RAG) system. Unlike traditional chatbots that hallucinate responses, DocChat implements a sophisticated verification and self-correction framework using LangGraph, Docling, and advanced hybrid retrieval techniques to provide reliable, fact-based answers from complex document collections.
 
-### 🎯 Project 9: Key Features
+### Project 9: Key Features
 
-#### 🔍 **Hybrid Retrieval Architecture**
+#### **Hybrid Retrieval Architecture**
 * **BM25 + Vector Search Integration**: Combines keyword-based and semantic search for comprehensive document retrieval
 * **Multi-Document Processing**: Seamlessly handles queries across multiple document sources simultaneously  
 * **Structured Data Extraction**: Intelligent parsing of tables, figures, and complex document layouts using Docling
 * **ChromaDB Vector Store**: Efficient vector storage and similarity search for large document collections
 
-#### 🤖 **Multi-Agent Intelligence System**
+#### **Multi-Agent Intelligence System**
 * **Hybrid Retriever Agent**: Orchestrates BM25 and vector search to identify relevant document sections
 * **Research Agent**: Analyzes retrieved content and generates structured, contextual answers
 * **Verification Agent**: Cross-checks generated responses against source documents to prevent hallucinations
 * **Self-Correction Mechanism**: Automatically reruns research process when verification fails
 
-#### 📚 **Advanced Document Processing**
+#### **Advanced Document Processing**
 * **Docling PDF Extraction**: State-of-the-art structured text extraction from complex PDFs
 * **Multi-Format Support**: Handles various document types including contracts, reports, technical papers
 * **Table and Figure Recognition**: Intelligent interpretation of structured data within documents
 * **Content Preservation**: Maintains document hierarchy and context during extraction process
 
-#### 🌐 **Interactive Web Interface**
+#### **Interactive Web Interface**
 * **Gradio Web UI**: User-friendly interface for document upload and query interaction
 * **Real-Time Processing**: Immediate response generation with progress indicators
 * **Multi-Document Chat**: Conversational interface supporting queries across document collections
 * **Response Verification Display**: Transparent showing of verification results and confidence levels
 
-### 🗃️ Project 9: Technical Architecture
+### Project 9: Technical Architecture
 
 #### **Multi-Agent Workflow**
 ```
@@ -788,7 +788,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
                     └─────────────────┘
 ```
 
-### 🛠️ Project 9: Advanced Implementation
+### Project 9: Advanced Implementation
 
 #### **LangGraph Workflow Orchestration**
 * **StateGraph Architecture**: Complex multi-agent workflow management using LangGraph's state machine
@@ -814,7 +814,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **Performance Optimization**: Efficient indexing and retrieval strategies for fast response times
 * **Security Considerations**: Safe document handling and user data protection protocols
 
-### 🧪 Project 9: Use Case Applications
+### Project 9: Use Case Applications
 
 #### **Enterprise Document Intelligence**
 * **Legal Document Analysis**: Contract review, compliance checking, and legal research assistance
@@ -828,7 +828,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **Knowledge Management**: Enterprise knowledge base querying and information retrieval
 * **Due Diligence**: Automated document analysis for mergers, acquisitions, and investment decisions
 
-### 💼 Project 9: Real-World Impact
+### Project 9: Real-World Impact
 
 #### **Problem Solving Capabilities**
 * **Hallucination Prevention**: Unlike general-purpose LLMs, DocChat provides verifiable, source-backed answers
@@ -842,7 +842,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **Quality Assurance**: Eliminates guesswork with fact-checked, verifiable responses
 * **Scalable Intelligence**: Handles large document volumes that would be impractical for manual review
 
-### 🔧 Project 9: Technology Stack
+### Project 9: Technology Stack
 
 #### **Core Technologies**
 * **Framework**: LangGraph for multi-agent workflow orchestration and state management
@@ -874,7 +874,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **Advanced Analytics**: Document insight generation and automated report creation
 * **Enterprise Integration**: APIs for CRM, ERP, and other business system integration
 
-## 🎯 Portfolio Capabilities Demonstrated
+## Portfolio Capabilities Demonstrated
 
 ### **Advanced AI Integration**
 * **Multimodal Processing**: Seamless handling of visual and textual data
@@ -892,7 +892,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **System Architecture**: Well-structured, maintainable codebase across multiple project types
 * **Integration Skills**: Successful combination of multiple complex technologies and external APIs
 
-## ⚠️ Important Disclaimers
+## Important Disclaimers
 
 **Safety Notice**: These AI systems provide automated suggestions based on their respective inputs. While designed for accuracy and safety, recommendations should be validated by users, especially for health-related (Project 1) or financial/business decisions (Project 2).
 
@@ -900,7 +900,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 
 **User Responsibility**: Final responsibility for implementation safety and accuracy verification rests with the user across all project applications.
 
-## 🚀 Future Enhancements & Project Expansion
+## Future Enhancements & Project Expansion
 
 ---
 
@@ -911,7 +911,7 @@ DocChat represents a revolutionary approach to **document intelligence** through
 * **Integration Capabilities**: API endpoints for third-party applications
 * **Cross-Project Synergies**: Shared components and unified architecture patterns
 
-## 🏆 Project Significance
+## Project Significance
 
 This expanding portfolio represents the successful integration of:
 * **Cutting-edge AI Technologies**: LLMs, computer vision, and advanced reasoning systems
